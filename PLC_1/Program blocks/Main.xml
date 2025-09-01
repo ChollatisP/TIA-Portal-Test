@@ -105,7 +105,7 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Stop_BTN" />
+        <Component Name="TEST_BTN" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">

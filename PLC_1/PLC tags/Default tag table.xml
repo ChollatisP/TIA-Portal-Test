@@ -48,7 +48,7 @@
         <AttributeList>
           <DataTypeName>Bool</DataTypeName>
           <LogicalAddress>%I8.1</LogicalAddress>
-          <Name>Stop_BTN</Name>
+          <Name>TEST_BTN</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="8" CompositionName="Comment">
