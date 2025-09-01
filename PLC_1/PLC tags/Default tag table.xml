@@ -10,7 +10,7 @@
         <AttributeList>
           <DataTypeName>Bool</DataTypeName>
           <LogicalAddress>%I8.0</LogicalAddress>
-          <Name>Start_BTN</Name>
+          <Name>TEST_STR</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="2" CompositionName="Comment">

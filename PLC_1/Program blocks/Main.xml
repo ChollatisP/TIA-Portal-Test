@@ -44,7 +44,7 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Start_BTN" />
+        <Component Name="TEST_STR" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
